@@ -1,0 +1,8 @@
+{
+    "model_name": "ResNet-50",
+    "accuracy": 0.92,
+    "precision": 0.91,
+    "recall": 0.93,
+    "f1_score": 0.92,
+    "timestamp": "2023-05-15T14:30:00"
+}
